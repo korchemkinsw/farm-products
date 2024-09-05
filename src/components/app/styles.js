@@ -13,6 +13,8 @@ export const GlobalStyle = createGlobalStyle`
 
   body {
     position: relative;
+    margin-left: auto;
+    margin-right: auto;
     width: 1280px;
     min-height: 100%;
     font-family: ${(props) => props.theme.fontFamily};
