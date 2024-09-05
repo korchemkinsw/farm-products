@@ -28,7 +28,6 @@ export const StyledFieldConteyner = styled.div`
   justify-content: space-around;
   gap: ${(props) => props.theme.inner};
   padding: 24px ${(props) => props.theme.inner};
-  padding-bottom: 0;
   width: 313px;
   border: 1px solid rgba(0, 0, 0, 0.1);
   background-color: rgba(255, 255, 255, 1);
