@@ -6,7 +6,7 @@ export const StiledOrderRegistration = styled(Section)`
   margin: 0;
   padding: 0px ${(props) => props.theme.pagePadding};
   padding-top: 40px;
-  width: ${(props) => props.theme.pageWidth};
+  width: 1100px;
   height: 768px;
   background-color: rgba(246, 246, 246, 1);
   border-top: solid 1px rgba(0, 0, 0, 0.1);
